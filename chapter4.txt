@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 ECHO est  ativado.
+=======
+Capitulo 4
+>>>>>>> 8bf8fb94adb30f180c1c19d3aa76e59ffd5c9f36
